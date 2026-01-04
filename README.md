@@ -1,1 +1,1 @@
-# search-index-pipeline-sample
+# Search Index Pipeline sample project.
